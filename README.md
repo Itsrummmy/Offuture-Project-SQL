@@ -32,8 +32,6 @@
 
 This project, focused on the analysis of Offture's sales data using SQL. Key objectives included identifying key trends and performance metrics, developing insightful visualizations using Tableau, and effectively communicating findings to the team.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- Tools Used -->
 ## Tools Used
@@ -42,7 +40,6 @@ This project, focused on the analysis of Offture's sales data using SQL. Key obj
 * **Tableau**: For visualisations.
 * **Powerpoint**: For the presentation.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -53,7 +50,6 @@ This project, focused on the analysis of Offture's sales data using SQL. Key obj
 * Project presentation.
 * Tableau dashboard containing visualisations.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -69,8 +65,6 @@ This project, focused on the analysis of Offture's sales data using SQL. Key obj
 * USA generated the most sales.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- Conclusion -->
@@ -78,4 +72,4 @@ This project, focused on the analysis of Offture's sales data using SQL. Key obj
 These findings highlight key drivers of success and areas for improvement, enabling informed decision making and ultimately optimizing business performance.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="left">(<a href="#readme-top">back to top</a>)</p>
